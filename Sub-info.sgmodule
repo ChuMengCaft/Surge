@@ -19,5 +19,5 @@ Sub_info = script-name=Sub_info2,update-interval=3600
 [Script]
 Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fsub.kwk7thgc.com%2F%3FL1N1YnNjcmlwdGlvbi9DbGFzaD9zaWQ9NzA4NTImdG9rZW49cDY3TGdMa054em0mbW09ODA5MzgmYzRmYmI3MDA2ZjQ5NGU4YWE0YjUxZg%3D%3D&reset_day=1&title=AmyTelecome&icon=externaldrive.fill.badge.icloud=#007aff
 
-Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2F0b96e976-9ec3-44c0-aa2b-30bf8b0792ea.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Dff746c1fe3e80ea643b841a31984bd7e&reset_day=1&title=SakuraCat&icon=externaldrive.fill.badge.icloud=#007aff
+Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2F0b96e976-9ec3-44c0-aa2b-30bf8b0792ea.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Dff746c1fe3e80ea643b841a31984bd7e&title=SakuraCat&icon=externaldrive.fill.badge.icloud=#007aff
 
