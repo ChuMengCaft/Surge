@@ -16,4 +16,4 @@
 Sub_info = script-name=Sub_info,update-interval=3600
 
 [Script]
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fsub.store%2Fdownload%2FAmyTelecome&reset_day=1&title=AmyTelecome&icon=externaldrive.fill.badge.icloud=#007aff
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fsub.kwk7thgc.com%2F%3FL1N1YnNjcmlwdGlvbi9DbGFzaD9zaWQ9NzA4NTImdG9rZW49cDY3TGdMa054em0mbW09ODA5MzgmYzRmYmI3MDA2ZjQ5NGU4YWE0YjUxZg%3D%3D&reset_day=1&title=AmyTelecome&icon=externaldrive.fill.badge.icloud=#007aff
